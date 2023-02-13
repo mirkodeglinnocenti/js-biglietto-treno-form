@@ -31,6 +31,7 @@ buttonEl.addEventListener('click' , function() {
 
     // sconto
     
+    
     let sconto = 0
     
     console.log(selectEl)
